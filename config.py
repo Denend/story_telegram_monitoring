@@ -1,0 +1,12 @@
+BOT_TOKEN = ""
+
+ADMINS = [1894088037, 1867231659]
+
+WEBHOOK_PATH = "/webhook"
+WEBHOOK_URL = "https://22e4-109-75-62-2.ngrok-free.app" + WEBHOOK_PATH
+APP_HOST = "0.0.0.0"
+APP_PORT = 8443
+
+LOGGER_NAME = "root"
+
+TIMEZONE = "UTC"
